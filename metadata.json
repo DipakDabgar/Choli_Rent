@@ -1,0 +1,5 @@
+{
+  "name": "Chaniya Choli Rentals",
+  "description": "An application for browsing and renting traditional Chaniya Cholis. Admins can add new items and manage bookings, while users can view details and book items for specific dates.",
+  "requestFramePermissions": []
+}
